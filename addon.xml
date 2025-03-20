@@ -15,7 +15,7 @@
 		<license>GPL-2.0-only</license>
 		<forum>https://forum.kodi.tv/showthread.php?tid=210063</forum>
 		<source>https://github.com/mikesilvo164/service.library.data.provider</source>
-		<news>Matrix fixes</news>
+		<news>Kodi v21 Python 3 compatibility and other Omega Fixes.</news>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
